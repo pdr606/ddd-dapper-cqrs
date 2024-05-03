@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVW9LFC5Tpi9ldWf6GsAxIi8czdoYQXi0GY2g4DpPk+Mv59Z67mX+Yv61MfopTv782YXFdFqnq/smdmOJW72jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Infrastructure\\ButecoCode.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pedro.guarnieri\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

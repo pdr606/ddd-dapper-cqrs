@@ -1,0 +1,15 @@
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\bin\Debug\net8.0\ButecoCode.Application.deps.json
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\bin\Debug\net8.0\ButecoCode.Application.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\bin\Debug\net8.0\ButecoCode.Application.pdb
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\bin\Debug\net8.0\ButecoCode.Domain.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\bin\Debug\net8.0\ButecoCode.Domain.pdb
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.csproj.AssemblyReference.cache
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.AssemblyInfoInputs.cache
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.AssemblyInfo.cs
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCo.2D1EFFF2.Up2Date
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\refint\ButecoCode.Application.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.pdb
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ref\ButecoCode.Application.dll

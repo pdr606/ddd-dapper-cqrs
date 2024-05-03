@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F860E5-D4B5-4C74-8E14-EB8EA7CC1638}|ButecoCode.Infrastructure\\ButecoCode.Infrastructure.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.infrastructure\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06F860E5-D4B5-4C74-8E14-EB8EA7CC1638}|ButecoCode.Infrastructure\\ButecoCode.Infrastructure.csproj|solutionrelative:butecocode.infrastructure\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5164AD7F-D812-4118-883F-C035E5E3BED9}|ButecoCode.API\\ButecoCode.API.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5164AD7F-D812-4118-883F-C035E5E3BED9}|ButecoCode.API\\ButecoCode.API.csproj|solutionrelative:butecocode.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F860E5-D4B5-4C74-8E14-EB8EA7CC1638}|ButecoCode.Infrastructure\\ButecoCode.Infrastructure.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.infrastructure\\repository\\produto\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F860E5-D4B5-4C74-8E14-EB8EA7CC1638}|ButecoCode.Infrastructure\\ButecoCode.Infrastructure.csproj|solutionrelative:butecocode.infrastructure\\repository\\produto\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.application\\repositories\\produto\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|solutionrelative:butecocode.application\\repositories\\produto\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.application\\output\\mapper\\produtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|solutionrelative:butecocode.application\\output\\mapper\\produtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.application\\output\\mapper\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|solutionrelative:butecocode.application\\output\\mapper\\entitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\butecocode.application\\output\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC70B740-A2C8-4C72-928F-47F04959692F}|ButecoCode.Application\\ButecoCode.Application.csproj|solutionrelative:butecocode.application\\output\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.txt",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Infrastructure\\script.txt",
+              "RelativeDocumentMoniker": "ButecoCode.Infrastructure\\script.txt",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Infrastructure\\script.txt",
+              "RelativeToolTip": "ButecoCode.Infrastructure\\script.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-03T18:57:13.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ButecoCode.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ButecoCode.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:55:07.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Repositories\\Produto\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ButecoCode.Application\\Repositories\\Produto\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Repositories\\Produto\\IProdutoRepository.cs",
+              "RelativeToolTip": "ButecoCode.Application\\Repositories\\Produto\\IProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:54:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Infrastructure\\Repository\\Produto\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ButecoCode.Infrastructure\\Repository\\Produto\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Infrastructure\\Repository\\Produto\\ProdutoRepository.cs",
+              "RelativeToolTip": "ButecoCode.Infrastructure\\Repository\\Produto\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:48:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\Mapper\\ProdutoMapper.cs",
+              "RelativeDocumentMoniker": "ButecoCode.Application\\Output\\Mapper\\ProdutoMapper.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\Mapper\\ProdutoMapper.cs",
+              "RelativeToolTip": "ButecoCode.Application\\Output\\Mapper\\ProdutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:46:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\Mapper\\EntityMapper.cs",
+              "RelativeDocumentMoniker": "ButecoCode.Application\\Output\\Mapper\\EntityMapper.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\Mapper\\EntityMapper.cs",
+              "RelativeToolTip": "ButecoCode.Application\\Output\\Mapper\\EntityMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:46:10.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "ButecoCode.Application\\Output\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\exemplo-para-aula-buteco-da-bolha-tech\\ButecoCode.Application\\Output\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "ButecoCode.Application\\Output\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:45:41.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

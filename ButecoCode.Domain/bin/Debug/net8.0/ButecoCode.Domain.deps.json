@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ButecoCode.Domain/1.0.0": {
+        "runtime": {
+          "ButecoCode.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ButecoCode.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
