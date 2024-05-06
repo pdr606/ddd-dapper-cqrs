@@ -7,5 +7,6 @@ namespace ButecoCode.Application.Repositories.Produto
     {
         void InserirProduto(ProdutoEntity entity);
         Task<IEnumerable<ProdutoDTO>> PegarTodosProdutosAsync();
+        Task<decimal> PegarPrecoProdutoPorId(Guid id);
     }
 }

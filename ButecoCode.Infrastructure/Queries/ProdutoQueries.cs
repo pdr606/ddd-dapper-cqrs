@@ -30,6 +30,36 @@ namespace ButecoCode.Infrastructure.Queries
             return new Query(query, parameters);
         }
 
+        public static Query BuscarPrecoProdutoPorId(Guid id)
+        {
+            var query = 
+            $@"SELECT preco 
+            FROM {Tables.TabelaProduto}
+            WHERE id = @produtoid";
+
+            var parameters = new
+            {
+                produtoid = id
+            };
+
+            return new Query(query, parameters);
+        }
+
+        public static Query BuscarProdutoPorId(Guid id)
+        {
+            var query =
+            $@"SELECT * 
+            FROM {Tables.TabelaProduto}
+            WHERE id = @produtoid";
+
+            var parameters = new
+            {
+                produtoid = id
+            };
+
+            return new Query(query, parameters);
+        }
+
         public static Query BuscarTodosProdutos()
         {
             var query =

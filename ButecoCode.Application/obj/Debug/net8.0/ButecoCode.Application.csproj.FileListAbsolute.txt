@@ -13,3 +13,4 @@ C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\But
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\refint\ButecoCode.Application.dll
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.pdb
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ref\ButecoCode.Application.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Application\obj\Debug\net8.0\ButecoCode.Application.sourcelink.json

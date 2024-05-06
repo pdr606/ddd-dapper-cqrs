@@ -38,3 +38,4 @@ C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\But
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.API\obj\Debug\net8.0\ButecoCode.API.pdb
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.API\obj\Debug\net8.0\ButecoCode.API.genruntimeconfig.cache
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.API\obj\Debug\net8.0\ref\ButecoCode.API.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.API\obj\Debug\net8.0\ButecoCode.API.sourcelink.json

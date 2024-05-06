@@ -9,3 +9,4 @@ C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\But
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Domain\obj\Debug\net8.0\refint\ButecoCode.Domain.dll
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Domain\obj\Debug\net8.0\ButecoCode.Domain.pdb
 C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Domain\obj\Debug\net8.0\ref\ButecoCode.Domain.dll
+C:\Users\pedro.guarnieri\source\repos\exemplo-para-aula-buteco-da-bolha-tech\ButecoCode.Domain\obj\Debug\net8.0\ButecoCode.Domain.sourcelink.json

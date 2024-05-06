@@ -10,7 +10,8 @@ namespace ButecoCode.Application.Output.Mapper
         {
             return new ProdutoDTO(entity.Id,
                                   entity.Nome,
-                                  entity.Preco.ToString("N2").Replace('.', ','));
+                                  entity.Preco,
+                                  null);
         }
     }
 }

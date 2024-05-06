@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ButecoCode.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a06822800bbcc6498b204e4e36374ee67bff578")]
 [assembly: System.Reflection.AssemblyProductAttribute("ButecoCode.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ButecoCode.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,23 +7,22 @@ namespace ButecoCode.Domain.PedidoContext
 {
     public class PedidoEntity : BaseEntity , IAggregareRoot
     {
-        public PedidoEntity(PedidoItemEntity pedidoItem)
-        {
-            Item = pedidoItem;
-            CalcularValorTotal();
-        }
 
+        protected PedidoEntity() { }
+        
         public decimal ValorTotal { get; private set; }
-        public PedidoItemEntity Item { get; private set; }
 
-        public static PedidoEntity CriarPedido(PedidoItemEntity pedidoItem)
+        public void CalcularValorTotal(List<PedidoItemEntity> items)
         {
-            return new PedidoEntity(pedidoItem);
+            foreach(var item in items)
+            {
+                ValorTotal += item.Preco;
+            }
         }
 
-        public void CalcularValorTotal()
+        public static PedidoEntity CriarPedido()
         {
-            ValorTotal = Item.Quantidade * Item.Bebida.Preco;
+            return new PedidoEntity();
         }
     }
 
@@ -38,13 +37,26 @@ namespace ButecoCode.Domain.PedidoContext
             BebidaId = bebidaId;
         }
 
+        protected PedidoItemEntity() { }
+
         public short Quantidade { get; private set; }
-        public ProdutoEntity Bebida { get; private set; }
+        public decimal Preco { get; private set; }
         public Guid BebidaId{ get; private set; }
+        public Guid PedidoId { get; private set; }
 
         public static PedidoItemEntity CriarPedidoItem(short quantidade, Guid bebidaId)
         {
             return new PedidoItemEntity(quantidade, bebidaId);
+        }
+
+        public PedidoItemEntity VincularPedido(Guid pedidoId)
+        {
+            this.PedidoId = pedidoId; return this;
+        }
+
+        public PedidoItemEntity CalcularPrecoDoPedidoItem(decimal precoBebida)
+        {
+            this.Preco = precoBebida * Quantidade; return this;
         }
 
         public void Valildar()

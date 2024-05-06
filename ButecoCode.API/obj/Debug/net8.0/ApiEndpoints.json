@@ -1,5 +1,53 @@
 [
   {
+    "ContainingType": "ButecoCode.API.Controllers.PedidoController",
+    "Method": "SalvarProduto",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ButecoCode.Application.Input.Commands.PedidoContext.InserirPedidosCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ButecoCode.API.Controllers.PedidoController",
+    "Method": "BuscarPedidoPorId",
+    "RelativePath": "api/Pedido/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ButecoCode.Application.Output.Result.PedidoResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ButecoCode.API.Controllers.ProdutoController",
     "Method": "SalvarProduto",
     "RelativePath": "api/Produto",

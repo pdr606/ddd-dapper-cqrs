@@ -5,3 +5,10 @@
     Preco NUMERIC(10, 2) NOT NULL,
 	DataCriacao TIMESTAMP
 );
+
+CREATE TABLE pedido
+(
+	Id UUID PRIMARY KEY,
+	ValorTotal NUMERIC(10, 2),
+	DataCriacao TIMESTAMP
+);

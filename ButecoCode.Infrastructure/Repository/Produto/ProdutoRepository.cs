@@ -35,5 +35,16 @@ namespace ButecoCode.Infrastructure.Repository.Produto
 
             return produtos.Select(EntityMapper.ToDTO);
         }
+
+        public async Task<decimal> PegarPrecoProdutoPorId(Guid id)
+        {
+            var query = ProdutoQueries.BuscarPrecoProdutoPorId(id);
+
+            using (_connection)
+            {
+                var preco = (await _connection.QueryFirstOrDefaultAsync<decimal>(query.query, query.parameters));
+                return preco;
+            }
+        }
     }
 }
